@@ -1,0 +1,330 @@
+---
+title: "Macro Data"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    theme: default
+runtime: shiny
+
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(ggplot2)
+library(tidyverse)
+library(rdbnomics)
+library(lubridate)
+
+
+setwd("C:/Users/yosty/Desktop/Desktop_Folder/14 - git/RA_primer/shiny")
+source(file = "utilities_shiny.R")
+
+
+```
+
+```{r loadData}
+
+mcl = read.csv("weoCountries.csv")
+
+# get data from dbnomics
+dataset = "WEO:2021-10"
+dim = rdbnomics::rdb_dimensions(provider_code = "IMF", dataset_code = dataset)
+countries = dim$IMF$`WEO:2021-10`$`weo-country`
+series = unique(dim$IMF$`WEO:2021-10`$`weo-subject`)
+
+
+```
+
+
+
+Column {.sidebar}
+=====================================
+
+```{r sidebar}
+selectInput(inputId="countryName",
+            label="Select Country",
+            choices=mcl$WEO.Country)
+
+numericInput(inputId="xInterval", 
+             label=("X Axis Interval"), 
+             value=5)
+
+numericInput(inputId="startYear", 
+             label=("End Year"), 
+             value=2000)
+
+numericInput(inputId="endYear", 
+             label=("Start Year"), 
+             value=2020)
+               
+
+# load data from inputs
+weoCode <- reactive({ mcl %>% filter(WEO.Country == input$countryName) %>% select(weo.country) %>% pull(weo.country)})
+data <- reactive({read.csv(file=paste("data/", weoCode(), ".csv", sep="")) %>%
+    mutate(period = year(period)) %>%
+    filter(period >= input$startYear,
+           period <= input$endYear)})
+  
+
+
+```
+
+Gross Domestic Product {data-navmenu="Pages"}
+=====================================
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Real GDP Percent Change
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="NGDP_RPCH", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+
+### Gross Domestic Product, Contstant Price Local Currency - millions?
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="NGDP_R", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+
+### Gross Domestic Product, Per Capita Nominal USD
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="NGDPDPC", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+###  Output Gap, percent of potential GDP
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="NGAP_NPGDP", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+
+
+Fiscal {data-navmenu="Pages"}
+=====================================
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### General Government Net Lending/Borrowing, percent of GDP
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="GGXONLB_NGDP", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+
+### General Government Revenue, percent of GDP
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="GGR_NGDP", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+
+### General Government Gross Debt, percent of GDP
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="GGXWDG_NGDP", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+### General Government Expenditure, percent of GDP
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="GGX_NGDP", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+Monetary {data-navmenu="Pages"}
+=====================================
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Inflation, average consumer prices index 
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="PCPI", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+
+### Implied PPP conversion rate Local currency per international dollar
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="PPPEX", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+
+### Inflation, average consumer prices index percent change
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="PCPIPCH", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+###  Gross Domestic Product, Deflator
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="NGDP_D", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+
+Labor {data-navmenu="Pages"}
+=====================================
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Population, scale?
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="LP", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+
+### 
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+
+### Unemployment
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="LUR", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+###  
+
+```{r}
+
+renderPlot({make_line(data(), 
+                      series="", 
+                      title="", 
+                      subtitle="", 
+                      xInterval=input$xInterval)})
+
+
+```
+
+
+
+

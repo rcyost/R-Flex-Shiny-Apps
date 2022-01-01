@@ -1,0 +1,228 @@
+﻿Country Code,Country Name,IMF Region,WEO Code,WEO_ISO_2,IMF_WEO_Income_Classification_2020_Name,IMF_WEO_Income_Classification_2020_Code,WB_Region,WB_IncomeGroup_FY2020,Member_IMF_Mar17,Member_CEMAC,Member_EU,Member_G7,Member_G20,Member_WAEMU,IMF_TPA.TTF,Member_OECD,Member_CIAT,Member_IOTA,Member_FTA,IMF_RTAC
+AFG,Afghanistan,MCD,512,AF,Low Income Developing Country,201,South Asia,Low income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+ALB,Albania,EUR,914,AL,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+DZA,Algeria,MCD,612,DZ,Emerging and developing economy,200,Middle East & North Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+ASM,American Samoa,,,,,,East Asia & Pacific,Upper middle income,NA,No,No,No,No,No,No,No,No,No,No,
+AND,Andorra,,,,,,Europe & Central Asia,High income,NA,No,No,No,No,No,No,No,No,No,No,
+AGO,Angola,AFR,614,AO,Emerging and developing economy,200,Sub-Saharan Africa,Lower middle income,Yes,Yes,No,No,No,No,No,No,Yes,No,No,AFS
+AIA,Anguilla,WHD,,AI,,,,,NA,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+ATG,Antigua and Barbuda,WHD,311,AG,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+ARG,Argentina,WHD,213,AR,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,
+ARM,Armenia,MCD,911,AM,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+ABW,Aruba,,,,,,Latin America & Caribbean,High income,NA,No,No,No,No,No,No,No,Yes,No,No,
+AUS,Australia,APD,193,AU,Advanced Economy,110,East Asia & Pacific,High income,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,
+AUT,Austria,EUR,122,AT,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+AZE,Azerbaijan,MCD,912,AZ,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+BHS,Bahamas,WHD,313,BS,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+BHR,Bahrain,MCD,419,BH,Emerging and developing economy,200,Middle East & North Africa,High income,Yes,No,No,No,No,No,No,No,No,No,No,
+BGD,Bangladesh,APD,513,BD,Low Income Developing Country,201,South Asia,Lower middle income,Yes,No,No,No,No,No,Yes,No,No,No,No,SARTTAC
+BRB,Barbados,WHD,316,BB,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,No,Yes,No,No,CARTAC-DR
+BLR,Belarus,EUR,913,BY,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+BEL,Belgium,EUR,124,BE,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+BLZ,Belize,WHD,339,BZ,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+BEN,Benin,AFR,638,BJ,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,Yes,Yes,No,No,No,No,AFW 
+BMU,Bermuda,WHD,,,,,North America,High income,NA,No,No,No,No,No,No,No,Yes,No,No,CARTAC-DR
+BTN,Bhutan,APD,514,BT,Low Income Developing Country,201,South Asia,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,SARTTAC
+BOL,Bolivia,WHD,218,BO,Emerging and developing economy,200,Latin America & Caribbean,Lower middle income,Yes,No,No,No,No,No,Yes,No,Yes,No,No,
+BIH,Bosnia and Herzegovina,EUR,963,BA,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+BWA,Botswana,AFR,616,BW,Emerging and developing economy,200,Sub-Saharan Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+ZZ1,Bouvet Island,NA,,NA,,,,,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BRA,Brazil,WHD,223,BR,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,
+BRN,Brunei Darussalam,APD,516,BN,Emerging and developing economy,200,East Asia & Pacific,High income,Yes,No,No,No,No,No,No,No,No,No,No,
+BGR,Bulgaria,EUR,918,BG,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,Yes,No,Yes / EU,No,No,No,No,Yes,No,
+BFA,Burkina Faso,AFR,748,BF,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,Yes,No,No,No,No,No,AFW 
+BDI,Burundi,AFR,618,BI,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,Yes,No,No,No,No,Yes,No,No,No,No,AFC
+KHM,Cambodia,APD,522,KH,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+CMR,Cameroon,AFR,622,CM,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+CAN,Canada,WHD,156,CA,Advanced Economy,110,North America,High income,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,
+CPV,Cape Verde,AFR,624,CV,Emerging and developing economy,200,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,Yes,No,No,No,No,AFW2
+CYM,Cayman Islands,WHD,,,,,Latin America & Caribbean,High income,NA,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+CAF,Central African Republic,AFR,626,CF,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+TCD,Chad,AFR,628,TD,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+CHL,Chile,WHD,228,CL,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,
+CHN,China,APD,924,CN,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,Yes,No,No,No,No,No,Yes,
+ZZ2,Christmas Island,NA,,NA,,,,,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+COL,Colombia,WHD,233,CO,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,Yes,
+COM,Comoros,AFR,632,KM,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+COD,Congo DRC,AFR,636,CD,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+COG,"Congo, Republic of",AFR,634,CG,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+COK,Cook Islands,APD,,,,,,,NA,No,No,No,No,No,No,No,No,No,No,
+CRI,Costa Rica,WHD,238,CR,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,Yes,
+CIV,Côte d'Ivoire,AFR,662,CI,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,Yes,Yes,No,No,No,No,AFW 
+HRV,Croatia,EUR,960,HR,Emerging and developing economy,200,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,No,No,Yes,No,
+CUB,Cuba,,,,,,Latin America & Caribbean,Upper middle income,NA,No,No,No,No,No,No,No,Yes,No,No,
+CUW,Curacao,,,,,,Latin America & Caribbean,High income,NA,No,No,No,No,No,No,No,Yes,No,No,
+CYP,Cyprus,EUR,423,CY,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,No,No,Yes,No,
+CZE,Czech Republic,EUR,935,CZ,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+DNK,Denmark,EUR,128,DK,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+DJI,Djibouti,MCD,611,DJ,Low Income Developing Country,201,Middle East & North Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+DMA,Dominica,WHD,321,DM,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+DOM,Dominican Republic,WHD,243,DO,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+ECU,Ecuador,WHD,248,EC,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+EGY,Egypt,MCD,469,EG,Emerging and developing economy,200,Middle East & North Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+SLV,El Salvador,WHD,253,SV,Emerging and developing economy,200,Latin America & Caribbean,Lower middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+GNQ,Equatorial Guinea,AFR,642,GQ,Emerging and developing economy,200,Sub-Saharan Africa,Upper middle income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+ERI,Eritrea,AFR,643,ER,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFE
+EST,Estonia,EUR,939,EE,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+ETH,Ethiopia,AFR,644,ET,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,Yes,No,No,No,No,AFE
+FLK,Falkland Island,,,,,,,,NA,No,No,No,No,No,No,No,No,No,No,
+FRO,Faroe Islands,,,,,,Europe & Central Asia,High income,NA,No,No,No,No,No,No,No,No,No,No,
+FJI,Fiji,APD,819,FJ,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+FIN,Finland,EUR,172,FI,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+FRA,France,EUR,132,FR,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,
+ZZ3,French Polynesia,NA,,NA,,,,,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ZZ4,French Southern Territories,NA,,NA,,,,,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GAB,Gabon,AFR,646,GA,Emerging and developing economy,200,Sub-Saharan Africa,Upper middle income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+GMB,Gambia,AFR,648,GM,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFW2
+GEO,Georgia,MCD,915,GE,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,Yes,No,No,Yes,No,
+DEU,Germany,EUR,134,DE,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,
+GHA,Ghana,AFR,652,GH,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,AFW2
+ZZ5,Gibraltar,NA,,NA,,,,,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GRC,Greece,EUR,174,GR,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+GRL,Greenland,,,,,,Europe & Central Asia,High income,NA,No,No,No,No,No,No,No,No,No,No,
+GRD,Grenada,WHD,328,GD,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+ZZ6,Guadeloupe,NA,,NA,,,,,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GUM,Guam,,,,,,East Asia & Pacific,High income,NA,No,No,No,No,No,No,No,No,No,No,
+GTM,Guatemala,WHD,258,GT,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+GIN,Guinea,AFR,656,GN,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFW 
+GNB,Guinea-Bissau,AFR,654,GW,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,Yes,Yes,No,No,No,No,AFW 
+GUY,Guyana,WHD,336,GY,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,CARTAC-DR
+HTI,Haiti,WHD,263,HT,Low Income Developing Country,201,Latin America & Caribbean,Low income,Yes,No,No,No,No,No,Yes,No,Yes,No,No,CARTAC-DR
+HND,Honduras,WHD,268,HN,Low Income Developing Country,201,Latin America & Caribbean,Lower middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+HKG,Hong Kong,APD,532,HK,Advanced Economy,110,East Asia & Pacific,High income,NA,No,No,No,No,No,No,No,No,No,Yes,
+HUN,Hungary,EUR,944,HU,Emerging and developing economy,200,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+ISL,Iceland,EUR,176,IS,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,
+IND,India,APD,534,IN,Emerging and developing economy,200,South Asia,Lower middle income,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,SARTTAC
+IDN,Indonesia,APD,536,ID,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,Yes,No,No,No,No,No,Yes,
+IRN,Iran,MCD,429,IR,Emerging and developing economy,200,Middle East & North Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+IRQ,Iraq,MCD,433,IQ,Emerging and developing economy,200,Middle East & North Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+IRL,Ireland,EUR,178,IE,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+IMY,Isle of Man,,,,,,,,NA,No,No,No,No,No,No,No,No,No,No,
+ISR,Israel,EUR,436,IL,Advanced Economy,110,Middle East & North Africa,High income,Yes,No,No,No,No,No,No,Yes,No,No,Yes,
+ITA,Italy,EUR,136,IT,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,
+JPN,Japan,APD,158,JP,Advanced Economy,110,East Asia & Pacific,High income,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,
+JOR,Jordan,MCD,439,JO,Emerging and developing economy,200,Middle East & North Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+KAZ,Kazakhstan,MCD,916,KZ,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+KEN,Kenya,AFR,664,KE,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,AFE
+KIR,Kiribati,APD,826,KI,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+KOS,Kosovo,EUR,967,KO,Emerging and developing economy,200,,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+KWT,Kuwait,MCD,443,KG,Emerging and developing economy,200,Middle East & North Africa,High income,Yes,No,No,No,No,No,No,No,No,No,No,
+KGZ,Kyrgyz,MCD,917,KW,Low Income Developing Country,201,Europe & Central Asia,Lower middle income,Yes,No,No,No,No,No,Yes,No,No,No,No,
+LAO,Laos,APD,544,LA,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+LVA,Latvia,EUR,941,LV,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+LBN,Lebanon,MCD,446,LB,Emerging and developing economy,200,Middle East & North Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+LSO,Lesotho,AFR,666,LS,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+LBR,Liberia,AFR,668,LR,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,Yes,No,No,No,No,AFW2
+LBY,Libya,MCD,672,LY,Emerging and developing economy,200,Middle East & North Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+JAM,LIDC,WHD,343,JM,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,CARTAC-DR
+LIE,Liechtenstein,EUR,,,,,Europe & Central Asia,High income,NA,No,No,No,No,No,No,No,No,No,No,
+LTU,Lithuania,EUR,946,LT,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,No,No,Yes,No,
+LUX,Luxembourg,EUR,137,LU,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+MAC,Macao,APD,546,,Advanced Economy,110,East Asia & Pacific,High income,NA,No,No,No,No,No,No,No,No,No,No,
+MKD,Macedonia,EUR,962,MK,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+MDG,Madagascar,AFR,674,MG,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+MWI,Malawi,AFR,676,MW,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFE
+MYS,Malaysia,APD,548,MY,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,Yes,
+MDV,Maldives,APD,556,MV,Emerging and developing economy,200,South Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,SARTTAC
+MLI,Mali,AFR,678,ML,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,Yes,Yes,No,No,No,No,AFW 
+MLT,Malta,EUR,181,MT,Advanced Economy,110,Middle East & North Africa,High income,Yes,No,Yes,No,Yes / EU,No,No,No,No,Yes,No,
+MHL,Marshall Islands,APD,867,MH,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+MRT,Mauritania,MCD,682,MR,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,Yes,No,No,No,No,AFW 
+MUS,Mauritius,AFR,684,MU,Emerging and developing economy,200,Sub-Saharan Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+MEX,Mexico,WHD,273,MX,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,
+FSM,Micronesia,APD,868,MS,Emerging and developing economy,200,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+MDA,Moldova,EUR,921,MD,Low Income Developing Country,201,Europe & Central Asia,Lower middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+MCO,Monaco,,,,,,Europe & Central Asia,High income,NA,No,No,No,No,No,No,No,No,No,No,
+MNG,Mongolia,APD,948,MN,Emerging and developing economy,200,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,Yes,No,No,No,No,
+MNE,Montenegro,EUR,943,ME,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+ZZ8,Montserrat,WHD,,,,,,,NA,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+MAR,Morocco,MCD,686,MA,Emerging and developing economy,200,Middle East & North Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+MOZ,Mozambique,AFR,688,MZ,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+MMR,Myanmar,APD,518,MM,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,Yes,No,No,No,No,
+NAM,Namibia,AFR,728,NA,Emerging and developing economy,200,Sub-Saharan Africa,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+NRU,Nauru,APD,,,,,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+NPL,Nepal,APD,558,NP,Low Income Developing Country,201,South Asia,Low income,Yes,No,No,No,No,No,Yes,No,No,No,No,SARTTAC
+NLD,Netherlands,EUR,138,NL,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,Yes,Yes,Yes,
+ZZ7,Netherlands Antilles,NA,,NA,,,,,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NCL,New Caledonia,,,,,,East Asia & Pacific,High income,NA,No,No,No,No,No,No,No,No,No,No,
+NZL,New Zealand,APD,196,NZ,Advanced Economy,110,East Asia & Pacific,High income,Yes,No,No,No,No,No,No,Yes,No,No,Yes,
+NIC,Nicaragua,WHD,278,NI,Low Income Developing Country,201,Latin America & Caribbean,Lower middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+NER,Niger,AFR,692,NE,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,Yes,No,No,No,No,No,AFW 
+NGA,Nigeria,AFR,694,NG,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,AFW2
+NIU,Niue,,,,,,,,NA,No,No,No,No,No,No,No,No,No,No,PFTAC
+ZZ9,North Korea,,,,,,,,NA,No,No,No,No,No,No,No,No,No,No,
+MNP,Northern Mariana Islands,,,,,,East Asia & Pacific,High income,NA,No,No,No,No,No,No,No,No,No,No,
+NOR,Norway,EUR,142,NO,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,
+OMN,Oman,MCD,449,OM,Emerging and developing economy,200,Middle East & North Africa,High income,Yes,No,No,No,No,No,No,No,No,No,No,
+PAK,Pakistan,MCD,564,PK,Emerging and developing economy,200,South Asia,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+PLW,Palau,APD,565,PW,Emerging and developing economy,200,East Asia & Pacific,High income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+PAN,Panama,WHD,283,PA,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+PNG,Papua New Guinea,APD,853,PG,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+PRY,Paraguay,WHD,288,PY,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,Yes,No,Yes,No,No,
+PER,Peru,WHD,293,PE,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+PHL,Philippines,APD,566,PH,Emerging and developing economy,200,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+POL,Poland,EUR,964,PL,Emerging and developing economy,200,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+PRT,Portugal,EUR,182,PT,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,Yes,Yes,Yes,
+QAT,Qatar,MCD,453,QA,Emerging and developing economy,200,Middle East & North Africa,High income,Yes,No,No,No,No,No,No,No,No,No,No,
+SRP,Republika Srpska,EUR,,,,,,,NA,No,No,No,No,No,No,No,No,Yes,No,
+ROM,Romania,EUR,968,RO,Emerging and developing economy,200,,High income,Yes,No,Yes,No,Yes / EU,No,No,No,No,Yes,No,
+RUS,Russia,EUR,922,RU,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,
+RWA,Rwanda,AFR,714,RW,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFE
+WSM,Samoa,APD,862,WS,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+SMR,San Marino,EUR,135,SM,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,No,No,No,No,No,No,No,No,No,
+STP,São Tomé and Príncipe,AFR,716,ST,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,Yes,No,No,No,No,No,No,No,No,No,AFC
+SAU,Saudi Arabia,MCD,456,SA,Emerging and developing economy,200,Middle East & North Africa,High income,Yes,No,No,No,Yes,No,No,No,No,No,No,
+SEN,Senegal,AFR,722,SN,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,Yes,Yes,No,No,No,No,AFW 
+SRB,Serbia,EUR,942,RS,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+SYC,Seychelles,AFR,718,SC,Emerging and developing economy,200,Sub-Saharan Africa,High income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+SLE,Sierra Leone,AFR,724,SL,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,Yes,No,No,No,No,AFW2
+SGP,Singapore,APD,576,SG,Advanced Economy,110,East Asia & Pacific,High income,Yes,No,No,No,No,No,No,No,No,No,Yes,
+SXM,Sint Maarten,,,,,,Latin America & Caribbean,High income,NA,No,No,No,No,No,No,No,Yes,No,No,
+SVK,Slovak Republic,EUR,936,SK,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+SVN,Slovenia,EUR,961,SI,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+SLB,Solomon Islands,APD,813,SB,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+SOM,Somalia,MCD,,SO,,,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,
+ZAF,South Africa,AFR,199,ZA,Emerging and developing economy,200,Sub-Saharan Africa,Upper middle income,Yes,No,No,No,Yes,No,No,No,No,No,Yes,AFS
+KOR,South Korea,APD,542,KR,Advanced Economy,110,East Asia & Pacific,High income,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,
+SSD,South Sudan,AFR,733,SS,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,
+ESP,Spain,EUR,184,ES,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,Yes,Yes,Yes,
+LKA,Sri Lanka,APD,524,LK,Emerging and developing economy,200,South Asia,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,SARTTAC
+KNA,St. Kitts and Nevis,WHD,361,KN,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+LCA,St. Lucia,WHD,362,LC,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+VCT,St. Vincent and the Grenadines,WHD,364,VC,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+SDN,Sudan,MCD,732,SD,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+SUR,Suriname,WHD,366,SR,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,CARTAC-DR
+SWZ,Eswatini,AFR,734,,Emerging and developing economy,200,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,Yes,No,No,No,No,AFS
+SWE,Sweden,EUR,144,SE,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,No,Yes / EU,No,No,Yes,No,Yes,Yes,
+CHE,Switzerland,EUR,146,CH,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,
+SYR,Syria,MCD,463,SY,Emerging and developing economy,200,Middle East & North Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+TWN,Taiwan,,528,TW,Advanced Economy,110,East Asia & Pacific,High income,NA,No,No,No,No,No,No,No,No,No,No,
+TJK,Tajikistan,MCD,923,TJ,Low Income Developing Country,201,Europe & Central Asia,Low income,Yes,No,No,No,No,No,No,No,No,No,No,
+TZA,Tanzania,AFR,738,TZ,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFE
+THA,Thailand,APD,578,TH,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+TLS,Timor-Leste,APD,537,TL,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+TGO,Togo,AFR,742,TG,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,Yes,No,No,No,No,No,AFW 
+TKL,Tokelau,,,,,,,,NA,No,No,No,No,No,No,No,No,No,No,PFTAC
+TON,Tonga,APD,866,TO,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+TTO,Trinidad and Tobago,WHD,369,TT,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,No,Yes,No,No,CARTAC-DR
+TUN,Tunisia,MCD,744,TN,Emerging and developing economy,200,Middle East & North Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+TUR,Turkey,EUR,186,TR,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,
+TKM,Turkmenistan,MCD,925,TM,Emerging and developing economy,200,Europe & Central Asia,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+TCA,Turks and Caicos Islands,WHD,,,,,Latin America & Caribbean,High income,NA,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+TUV,Tuvalu,APD,869,TV,Emerging and developing economy,200,East Asia & Pacific,Upper middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+UGA,Uganda,AFR,746,UG,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFE
+UKR,Ukraine,EUR,926,UA,Emerging and developing economy,200,Europe & Central Asia,Lower middle income,Yes,No,No,No,No,No,No,No,No,Yes,No,
+ARE,United Arab Emirates,MCD,466,AE,Emerging and developing economy,200,Middle East & North Africa,High income,Yes,No,No,No,No,No,No,No,No,No,No,
+GBR,United Kingdom,EUR,112,GB,Advanced Economy,110,Europe & Central Asia,High income,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,
+USA,United States,WHD,111,US,Advanced Economy,110,North America,High income,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,
+URY,Uruguay,WHD,298,UY,Emerging and developing economy,200,Latin America & Caribbean,High income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+UZB,Uzbekistan,MCD,927,UZ,Low Income Developing Country,201,Europe & Central Asia,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+VUT,Vanuatu,APD,846,VU,Emerging and developing economy,200,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,PFTAC
+VEN,Venezuela,WHD,299,VE,Emerging and developing economy,200,Latin America & Caribbean,Upper middle income,Yes,No,No,No,No,No,No,No,Yes,No,No,
+VNM,Vietnam,APD,582,VN,Low Income Developing Country,201,East Asia & Pacific,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,
+VIR,Virgin Islands (U.S.),,,,,,Latin America & Caribbean,High income,NA,No,No,No,No,No,No,No,No,No,No,
+VGB,"Virgin Islands, British",WHD,,,,,Latin America & Caribbean,High income,NA,No,No,No,No,No,No,No,No,No,No,CARTAC-DR
+WBG,West Bank and Gaza,MCD,,,,,,,NA,No,No,No,No,No,Yes,No,No,No,No,METAC
+YEM,Yemen,MCD,474,YE,Low Income Developing Country,201,Middle East & North Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,METAC
+ZMB,Zambia,AFR,754,ZM,Low Income Developing Country,201,Sub-Saharan Africa,Lower middle income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
+ZWE,Zimbabwe,AFR,698,ZW,Low Income Developing Country,201,Sub-Saharan Africa,Low income,Yes,No,No,No,No,No,No,No,No,No,No,AFS
