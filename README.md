@@ -38,8 +38,11 @@ Didn't feel the need to spend more of my life getting the dbnomics client to do 
 
 
 ![png](gdpPage.png)
+
 ![png](fiscalPage.png)
+
 ![png](monetaryPage.png)
+
 ![png](laborPage.png)
 
 
